@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Site](https://www.frontendmentor.io/solutions/advice-generator-using-tailwind-css-ilN5HX3V6h)
+- Live Site URL: [Live Site](https://ramawib.github.io/advice-generator-app-main/)
 
 ## My process
 
@@ -69,9 +69,10 @@ const fetchAdvice = fetch('https://api.adviceslip.com/advice?t=' + Math.random()
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Dimas Rama](https://ramawib.github.io)
+- Frontend Mentor - [@ramawib](https://www.frontendmentor.io/profile/ramawib)
+- Twitter - [@ramawib](https://www.twitter.com/ramawib)
+- Instagram - [@ramawib](https://www.instagram.com/ramawib)
 
 ## Acknowledgments
 
